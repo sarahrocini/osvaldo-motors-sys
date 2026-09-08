@@ -1,0 +1,3 @@
+Este repositório é dedicado ao desenvolvimento do sistema do Seu Osvaldo, cliente proprietário de um comércio local que necessita de uma solução simplificada de gestão.
+
+O objetivo do sistema é automatizar e centralizar o controle de rotinas diárias da empresa, incluindo o cadastro e acompanhamento de estoque, registro de vendas no PDV, cálculo automático de comissões e descontos, e geração de relatórios comerciais consolidados através de uma interface intuitiva e acessível.
